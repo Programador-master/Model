@@ -935,6 +935,10 @@ footer .social-links {
     filter: brightness(1.3);
     border: none;
   }
+  
+  button {
+  width: 100%
+  }
 
 }
 
