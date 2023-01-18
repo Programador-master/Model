@@ -307,10 +307,13 @@ body.menu-expanded .menu {
   width: 100vw;
   height: 100vh;
 
-  padding-top: 6rem;
+  padding-top: var(--nav-height);
 
   transition: transform 300ms;
   transform: translateY(0);
+}
+body.menu-expanded .contentNav {
+  height: 75%;
 }
 
 .menu ul:nth-child(1) {
