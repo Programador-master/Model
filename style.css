@@ -557,7 +557,7 @@ form button {
   background-color: var(--primary-color);
 
   padding: 1rem 1.5rem;
-  width: 40%;
+  width: 100%;
 
   text-align: center;
   color: #fff;
@@ -934,10 +934,6 @@ footer .social-links {
     color: var(--headline);
     filter: brightness(1.3);
     border: none;
-  }
-  
-  from button#buttonSubmit {
-    width: 100%;
   }
 
 }
