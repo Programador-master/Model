@@ -312,9 +312,6 @@ body.menu-expanded .menu {
   transition: transform 300ms;
   transform: translateY(0);
 }
-body.menu-expanded .contentNav {
-  height: 75%;
-}
 
 .menu ul:nth-child(1) {
   display: flex;
