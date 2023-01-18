@@ -680,7 +680,7 @@ footer .social-links {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 70%;
+    width: 60%;
   }
 
   nav#navigation .menu ul:nth-child(1) {
