@@ -307,7 +307,7 @@ body.menu-expanded .menu {
   width: 100vw;
   height: 100vh;
 
-  padding-top: var(--nav-height);
+  padding-top: 6rem;
 
   transition: transform 300ms;
   transform: translateY(0);
@@ -654,9 +654,6 @@ footer .social-links {
 
   /*=== NAVIGATION =================================*/
   /* reset */
-  div.menu {
-    height: 90%
-  }
   nav#navigation .wrapper * {
     margin: 0;
     padding: 0;
